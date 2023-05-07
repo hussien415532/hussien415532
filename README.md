@@ -4,4 +4,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=hussien415532)](https://github.com/ryo-ma/github-profile-trophy)
 <br><br>
 ---
-<h1 style:"text-align:center;">Continuity is more important than productivity</h1> 💪
+<h1 style:"text-align:center;">Continuity is more important than productivity 💪</h1> 
